@@ -13,7 +13,7 @@ int main()
   cin>>ro;
   cout<<"______"<<endl;
   int temp[ro];
-  for(int i=0;i<7;i++)
+  for(int i=0;i<ro;i++)
   {
     temp[i]=arr[i];
   }
